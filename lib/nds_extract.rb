@@ -20,7 +20,7 @@ def gross_for_director(director_data)
 	row += 1
 	end
 results
-
+end
       
       
       
